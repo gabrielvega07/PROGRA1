@@ -1,0 +1,29 @@
+using System;
+
+namespace Descuento
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int precio, descuento, total;
+
+            Console.Write("Precio de la compra:");
+            precio = Convert.ToInt32(Console.ReadLine());
+            descuento = precio * 20/100;
+
+            if (precio > 300)
+            {
+                total = precio - descuento;
+                Console.WriteLine("El total es: " + total);
+            }
+            else
+            {
+                total = precio;
+                Console.WriteLine("El total es: " + total);
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
