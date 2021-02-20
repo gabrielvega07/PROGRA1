@@ -1,0 +1,42 @@
+using System;
+
+namespace NUMERO_PRIMO
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int numero = 0;
+            bool result;
+
+            Program ob = new Program();
+
+            Console.Write("Introduce un número: ");
+            numero = int.Parse(Console.ReadLine());
+
+            result = ob.esPrimo(numero);
+
+            Console.WriteLine();
+            Console.WriteLine("El {0} {1}", numero, (result ? "es primo" : "no es primo"));
+            
+            Console.ReadKey();
+        }
+
+        
+        private bool esPrimo(int numero)
+        {
+            int divisor = 2;
+            int resto = 0;
+            while (divisor < numero)
+            {
+                resto = numero % divisor;
+                if (resto == 0)
+                {
+                    return false;
+                }
+                divisor = divisor + 1;
+            }
+            return true;
+        }
+    }
+}
