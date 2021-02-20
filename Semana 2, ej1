@@ -1,0 +1,37 @@
+using System;
+
+namespace LETRA_MAYUSCULA
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            char letra;
+            string c;
+
+            Console.WriteLine("Ingrese una letra: ");
+            c = Console.ReadLine();
+            letra = char.Parse(c);
+
+
+            if (letra >= 'a' && letra <= 'z')
+            {
+                Console.WriteLine("La letra es minuscula ");
+            }
+
+            else
+            {
+                if (letra >= 'A' && letra <= 'Z')
+                    Console.WriteLine("La letra es mayuscula ");
+
+                else
+                {
+                    Console.WriteLine("No es una letra ");
+                }
+                Console.ReadKey();
+
+
+            }
+        }
+    }
+}
