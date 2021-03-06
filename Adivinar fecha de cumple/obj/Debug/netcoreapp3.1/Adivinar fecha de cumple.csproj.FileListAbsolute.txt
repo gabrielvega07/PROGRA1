@@ -1,0 +1,13 @@
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\bin\Debug\netcoreapp3.1\Adivinar fecha de cumple.exe
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\bin\Debug\netcoreapp3.1\Adivinar fecha de cumple.deps.json
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\bin\Debug\netcoreapp3.1\Adivinar fecha de cumple.runtimeconfig.json
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\bin\Debug\netcoreapp3.1\Adivinar fecha de cumple.runtimeconfig.dev.json
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\bin\Debug\netcoreapp3.1\Adivinar fecha de cumple.dll
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\bin\Debug\netcoreapp3.1\Adivinar fecha de cumple.pdb
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\obj\Debug\netcoreapp3.1\Adivinar fecha de cumple.AssemblyInfoInputs.cache
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\obj\Debug\netcoreapp3.1\Adivinar fecha de cumple.AssemblyInfo.cs
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\obj\Debug\netcoreapp3.1\Adivinar fecha de cumple.csproj.CoreCompileInputs.cache
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\obj\Debug\netcoreapp3.1\Adivinar fecha de cumple.dll
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\obj\Debug\netcoreapp3.1\Adivinar fecha de cumple.pdb
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\obj\Debug\netcoreapp3.1\Adivinar fecha de cumple.genruntimeconfig.cache
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Adivinar fecha de cumple\obj\Debug\netcoreapp3.1\Adivinar fecha de cumple.csprojAssemblyReference.cache
