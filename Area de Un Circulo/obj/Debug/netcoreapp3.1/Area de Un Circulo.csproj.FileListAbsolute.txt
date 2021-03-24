@@ -1,0 +1,13 @@
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\bin\Debug\netcoreapp3.1\Area de Un Circulo.exe
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\bin\Debug\netcoreapp3.1\Area de Un Circulo.deps.json
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\bin\Debug\netcoreapp3.1\Area de Un Circulo.runtimeconfig.json
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\bin\Debug\netcoreapp3.1\Area de Un Circulo.runtimeconfig.dev.json
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\bin\Debug\netcoreapp3.1\Area de Un Circulo.dll
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\bin\Debug\netcoreapp3.1\Area de Un Circulo.pdb
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\obj\Debug\netcoreapp3.1\Area de Un Circulo.csprojAssemblyReference.cache
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\obj\Debug\netcoreapp3.1\Area de Un Circulo.AssemblyInfoInputs.cache
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\obj\Debug\netcoreapp3.1\Area de Un Circulo.AssemblyInfo.cs
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\obj\Debug\netcoreapp3.1\Area de Un Circulo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\obj\Debug\netcoreapp3.1\Area de Un Circulo.dll
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\obj\Debug\netcoreapp3.1\Area de Un Circulo.pdb
+C:\Users\USUARIOTC\OneDrive\Escritorio\EJERCICIOS DE PROGRA\Area de Un Circulo\obj\Debug\netcoreapp3.1\Area de Un Circulo.genruntimeconfig.cache
