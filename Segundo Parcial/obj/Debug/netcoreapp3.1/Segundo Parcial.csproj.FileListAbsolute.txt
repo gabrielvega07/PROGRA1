@@ -1,0 +1,15 @@
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.csprojAssemblyReference.cache
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo_Parcial.Form1.resources
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.csproj.GenerateResource.cache
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.AssemblyInfoInputs.cache
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.AssemblyInfo.cs
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.csproj.CoreCompileInputs.cache
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.exe
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.deps.json
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.runtimeconfig.json
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.runtimeconfig.dev.json
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.dll
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.pdb
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.dll
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.pdb
+C:\Users\USUARIOTC\source\repos\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.genruntimeconfig.cache
